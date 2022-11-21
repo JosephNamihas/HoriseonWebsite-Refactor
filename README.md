@@ -1,13 +1,17 @@
-# <Your-Project-Title>
+# Module One Challenge
 
-## Description
+## Refactoring
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The included website is a refactor of a purposely developed website designed for the Module One Challenge.
+The challenge was to refactor the code to make it more accessible by following the below request from the user:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+>"AS A marketing agency
+>
+>I WANT a codebase that follows accessibility standards
+>SO THAT our own site is optimized for search engines"
+
+
+I have put into practice what I have developed and researched in the Bootcamp so far. 
 
 ## Table of Contents (Optional)
 
@@ -20,7 +24,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Run the website by following the GitHub Pages link
+LINK HERE
 
 ## Usage
 
@@ -32,11 +37,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Many thanks to the FrontEnd Dev Bootcamp
+Refactorer: Joseph Namihas
 
 ## License
 
