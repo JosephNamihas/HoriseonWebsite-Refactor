@@ -10,30 +10,24 @@ The challenge was to refactor the code to make it more accessible by following t
 >I WANT a codebase that follows accessibility standards
 >SO THAT our own site is optimized for search engines"
 
+I have put into practice what I have learnt in the bootcamp so far. I have also included a few features that I have researched out of hours.
 
-I have put into practice what I have developed and researched in the Bootcamp so far. 
+My motivation for this project and the course in general was to change careers. I am currently an IT Engineer working for the NHS and have wanted to make a break into software development for a while.
+This is my 4th project on GitHub but the first one that focuses on a strict want or requirement from a customer.
 
-## Table of Contents (Optional)
+## Challenges
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+### Deciding whether to structure certain elements as sections or articles / aside elements
+I ended up opting for nesting sections within articles and aside elements. I felt that as long as the root element was an article or aside, the section element is much more diverse so probably the safer option.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Tidying up a lot of the CSS forced me to intesnley examine the website through the inspect element. A lot of the elements were being targeted by different selectors. I had to make sure each selector was covered to avoid any loss of formatting.
+
 
 ## Installation
 
-Run the website by following the GitHub Pages link
-LINK HERE
+Run the website by following the GitHub Pages link:
+https://josephnamihas.github.io/module_one_challenge/
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
