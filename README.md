@@ -16,7 +16,7 @@ My motivation for this project and the course in general was to change careers. 
 
 This is my 4th project on GitHub but the first one that focuses on a strict want or requirement from a customer.
 
-
+![](website_screenshot.png)
 
 ## Challenges
 
