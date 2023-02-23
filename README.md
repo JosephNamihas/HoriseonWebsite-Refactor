@@ -1,9 +1,8 @@
 # Horiseon - Module One Challenge
 
-## The Assignment
+## Description
 
-This website is a refactor of a purposely developed page designed for the Module One Challenge, Triology Frontend Development Bootcamp
-The challenge was to refactor the code to make it more accessible by following the below request from the user:
+I was asked by the client to refactor their website to make sure it meets semantic HTML requirements.
 
 >"AS A marketing agency
 >
@@ -43,7 +42,7 @@ https://josephnamihas.github.io/module_one_challenge/
 
 The webpage in it's glory. No specific usage instructions. 
 
-![](website_screenshot.png)
+![website screenshot](/assets/images/website_screenshot.png)
 
 
 ## Credits
