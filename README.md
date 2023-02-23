@@ -1,4 +1,4 @@
-# Horiseon - Module One Challenge
+# Horiseon - Website Refactor
 
 ## Description
 
